@@ -67,4 +67,4 @@ async function sendMessageToQueue(queueUrl, fileKeys, folderKey, uniqueId) {
 }
 
 // Call the function with the desired number of duplicates, e.g., 10
-duplicateAndQueueJobs(15);
+duplicateAndQueueJobs(25);
